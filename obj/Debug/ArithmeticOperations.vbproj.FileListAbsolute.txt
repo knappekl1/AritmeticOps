@@ -1,0 +1,12 @@
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.xml
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbprojAssemblyReference.cache
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Form1.resources
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Resources.resources
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbproj.GenerateResource.cache
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbproj.CoreCompileInputs.cache
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.xml
+C:\Users\libor\Dropbox\RPA\VB\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
